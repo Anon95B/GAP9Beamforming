@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bomps/Scrivania/workfile/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/pmsis/backend/src/main.S
+

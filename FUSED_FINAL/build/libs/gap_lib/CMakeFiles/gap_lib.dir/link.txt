@@ -1,0 +1,2 @@
+/usr/lib/gap_riscv_toolchain/bin/riscv32-unknown-elf-ar qc libgap_lib.a CMakeFiles/gap_lib.dir/img_io/ImgIO.c.obj CMakeFiles/gap_lib.dir/wav_io/wavIO.c.obj
+/usr/lib/gap_riscv_toolchain/bin/riscv32-unknown-elf-ranlib libgap_lib.a

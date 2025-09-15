@@ -1,0 +1,29 @@
+freertos/vendors/gwt/pmsis/backend/CMakeFiles/pmsis_backend.dir/src/custom_list.c.obj: \
+ /home/bomps/Scrivania/workfile/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/pmsis/backend/src/custom_list.c \
+ /home/bomps/Scrivania/workfile/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/pmsis/backend/include/pmsis_backend_custom_types.h \
+ /usr/lib/gap_riscv_toolchain/lib/gcc/riscv32-unknown-elf/7.1.1/include/stdint.h \
+ /usr/lib/gap_riscv_toolchain/riscv32-unknown-elf/sys-include/stdint.h \
+ /usr/lib/gap_riscv_toolchain/riscv32-unknown-elf/sys-include/machine/_default_types.h \
+ /usr/lib/gap_riscv_toolchain/riscv32-unknown-elf/sys-include/sys/features.h \
+ /usr/lib/gap_riscv_toolchain/riscv32-unknown-elf/sys-include/_newlib_version.h \
+ /usr/lib/gap_riscv_toolchain/riscv32-unknown-elf/sys-include/sys/_intsup.h \
+ /usr/lib/gap_riscv_toolchain/riscv32-unknown-elf/sys-include/sys/_stdint.h \
+ /home/bomps/Scrivania/workfile/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/include/event.h \
+ /home/bomps/Scrivania/workfile/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/include/event_type.h \
+ /home/bomps/Scrivania/workfile/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/include/v2/list_type.h \
+ /home/bomps/Scrivania/workfile/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/include/v2/list-v2.h \
+ /usr/lib/gap_riscv_toolchain/lib/gcc/riscv32-unknown-elf/7.1.1/include/stddef.h \
+ /home/bomps/Scrivania/workfile/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/include/freertos_kernel_utils.h \
+ /home/bomps/Scrivania/workfile/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/pmsis/include/cores/TARGET_RISCV_32/pmsis_gcc.h \
+ /home/bomps/Scrivania/workfile/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/pmsis/include/cores/TARGET_RISCV_32/core_gap.h \
+ /home/bomps/Scrivania/workfile/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/pmsis/include/cores/TARGET_RISCV_32/builtins_gap9.h \
+ /home/bomps/Scrivania/workfile/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/pmsis/include/cores/TARGET_RISCV_32/pmsis_gcc.h \
+ /home/bomps/Scrivania/workfile/gap_sdk_private/rtos/pmsis/archi/chips/gap9/include/archi/gap_utils.h \
+ /home/bomps/Scrivania/workfile/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/include/FreeRTOS.h \
+ /home/bomps/Scrivania/workfile/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/config/FreeRTOSConfig.h \
+ /home/bomps/Scrivania/workfile/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/include/projdefs.h \
+ /home/bomps/Scrivania/workfile/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/include/portable.h \
+ /home/bomps/Scrivania/workfile/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/include/deprecated_definitions.h \
+ /home/bomps/Scrivania/workfile/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/portable/GCC/RI5CY-GAP9/portmacro.h \
+ /home/bomps/Scrivania/workfile/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/include/mpu_wrappers.h \
+ /home/bomps/Scrivania/workfile/gap_sdk_private/rtos/pmsis/tools/allocator/include/l2_malloc.h
